@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(62): warning C4716: "fork": Muss einen Wert zurückgeben
+  ShellProject.vcxproj -> C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\x64\Debug\ShellProject.exe
