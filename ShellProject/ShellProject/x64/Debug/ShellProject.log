@@ -1,3 +1,12 @@
 ﻿  main.c
-C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(62): warning C4716: "fork": Muss einen Wert zurückgeben
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(42,16): warning C4047: "Initialisierung": Anzahl der Dereferenzierungen bei "void (__cdecl *)(void)" und "char *(__cdecl *)(void)" unterschiedlich
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(44,15): warning C4113: "void (__cdecl *)(Command *)" weicht in der Parameterliste von "void (__cdecl *)(void)" ab
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(45,23): warning C4113: "void (__cdecl *)(Command *)" weicht in der Parameterliste von "void (__cdecl *)(void)" ab
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(46,18): warning C4113: "void (__cdecl *)(Command *)" weicht in der Parameterliste von "void (__cdecl *)(void)" ab
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(47,16): warning C4113: "void (__cdecl *)(Command *)" weicht in der Parameterliste von "void (__cdecl *)(void)" ab
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(96,23): warning C4474: "printf": zu viele Argumente für Formatzeichenfolge übergeben
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(96,23): message : Platzhalter und deren Parameter erwarten 0 variadic-Argumente, es wurden aber 1 variadic-Argumente bereitgestellt.
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(110,34): warning C4133: "Funktion": Inkompatible Typen - von "const TCHAR *" zu "const char *"
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(187,25): warning C4087: "ExecTable": Mit "void"-Parameterliste deklariert
+C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\ShellProject\main.c(75): warning C4172: Adresse einer lokalen Variablen oder eines temporären Werts ": cwd" wird zurückgegeben
   ShellProject.vcxproj -> C:\Users\ortwi\Documents\PROJEKTE\shell_project\ShellProject\x64\Debug\ShellProject.exe
