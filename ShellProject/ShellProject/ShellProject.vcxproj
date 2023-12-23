@@ -19,13 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="cmd.c" />
     <ClCompile Include="executables.c" />
     <ClCompile Include="main.c" />
+    <ClCompile Include="parser.c" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="cmd.h" />
     <ClInclude Include="constants.h" />
     <ClInclude Include="executables.h" />
     <ClInclude Include="libs.h" />
+    <ClInclude Include="parser.h" />
     <ClInclude Include="structs.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">

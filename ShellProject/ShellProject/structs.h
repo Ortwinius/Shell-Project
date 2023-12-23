@@ -10,7 +10,7 @@ typedef struct {
 	const char* cmd;
 	const unsigned int min_args;
 	const unsigned int max_args;
-	void (*handler)(void);
+	void (*handler)(Command*);
 }Exec;
 
 #endif //STRUCTS_H
